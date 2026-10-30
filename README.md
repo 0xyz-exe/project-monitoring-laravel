@@ -2,6 +2,19 @@
 
 Standalone Laravel project registry with project members, planned dates, milestones, persisted task progress, optional budgets and expenses, health indicators, overdue tracking, risks/issues, activity history, search/filter, and CSV reports.
 
+---
+
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Pemantauan Portofolio Proyek**<br>Direktori inisiatif proyek dengan indikator status kesehatan (On track, At risk), progress bar persentase penyelesaian tugas, dan pelacakan anggaran | ![Dashboard Pemantauan Portofolio Proyek](docs/screenshots/01-project-monitoring-dashboard.png) |
+| **Ringkasan KPI & Status Kesehatan Proyek**<br>Indikator ringkasan KPI kesehatan proyek, persentase kemajuan tugas, penghitungan keterlambatan (overdue), realisasi pengeluaran, dan ekspor laporan CSV | ![Ringkasan KPI & Kesehatan Proyek](docs/screenshots/02-project-kpi-health.png) |
+| **Pelacakan Tugas & Milestone Target**<br>Daftar tugas terstruktur dengan pemetaan status operasional (Done, In progress, To do), kontrol tambah tugas, serta tenggat waktu milestone | ![Pelacakan Tugas & Milestone](docs/screenshots/03-tasks-milestones-tracking.png) |
+| **Manajemen Risiko, Isu & Realisasi Anggaran**<br>Pencatatan matriks risiko proyek dengan tingkat keparahan (severity), formulir pembukuan pengeluaran anggaran, dan audit aktivitas | ![Manajemen Risiko & Realisasi Anggaran](docs/screenshots/04-risks-expenses-budget.png) |
+
+---
+
 ## Setup (Windows PowerShell)
 
 ```powershell
