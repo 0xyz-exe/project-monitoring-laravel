@@ -38,3 +38,15 @@ npm audit --omit=dev
 Budget/expense edits/deletes, member invitation UI, milestone completion editing, risk resolution, trend charts, and tamper-evident audit logs are not implemented. Configure HTTPS, secure sessions, backups, and least-privilege operations before deployment; this starter is not a security/compliance certification.
 
 Do not commit `.env`, personal data, `vendor`, `node_modules`, databases, or build output. MIT license.
+
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
+
+### Projects Overview
+![Projects](docs/screenshots/03_projects.png)
